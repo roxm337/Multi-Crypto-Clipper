@@ -35,7 +35,8 @@ This project is intended for **educational use only**. Do not use this software 
 ## Installation
 1. Clone the repository:
    ```bash
-   cd multi-crypto-clipper-simulation
+   git clone https://github.com/roxm337/Multi-Crypto-Clipper.git
+   cd Multi-Crypto-Clipper
 ```
 
  ## Usage
